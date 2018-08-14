@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV Cultura HD">
+    <display-name lang="pt">TV Cultura HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redepaulista.gif|http://www.lineup.tv.br/canais/tvbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo Rio">
+    <display-name lang="pt">Globo Rio</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvb.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TereTv">
+    <display-name lang="pt">TereTv</display-name>
+    <icon src="http://www.lineup.tv.br/canais/ideal.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo Minas">
+    <display-name lang="pt">Globo Minas</display-name>
+    <icon src="http://www.lineup.tv.br/canais/canaldagente.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Minas">
+    <display-name lang="pt">Rede Minas</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvuniversidade-mt.gif|http://www.lineup.tv.br/canais/tvbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede Vida">
+    <display-name lang="pt">Rede Vida</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvintegracao.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
